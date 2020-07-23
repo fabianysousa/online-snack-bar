@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace Tarefas.Models
+namespace online_snack_bar.Models
 {
   public class TarefaViewModel
   {

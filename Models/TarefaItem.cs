@@ -1,6 +1,6 @@
 using System;
 
-namespace Tarefas.Models
+namespace online_snack_bar.Models
 {
   public class TarefaItem
   {
