@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace online_snack_bar.Controllers
+namespace Tarefas.Controllers
 {
   public class TarefasController : Controller
   {
